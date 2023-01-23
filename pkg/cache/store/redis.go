@@ -2,7 +2,7 @@ package store
 
 import (
 	"fmt"
-	"github.com/ixfan/gofan/pkg/database/redis"
+	"github.com/Edward-Jackie/gotool/pkg/database/redis"
 	"time"
 )
 

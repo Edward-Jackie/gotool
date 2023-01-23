@@ -1,7 +1,7 @@
 package connectors
 
 import (
-	"github.com/ixfan/gofan/pkg/database/redis"
+	"github.com/Edward-Jackie/gotool/pkg/database/redis"
 	"time"
 )
 

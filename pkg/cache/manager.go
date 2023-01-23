@@ -2,7 +2,7 @@ package cache
 
 import (
 	"encoding/json"
-	"github.com/ixfan/gofan/pkg/cache/store"
+	"github.com/Edward-Jackie/gotool/pkg/cache/store"
 	"os"
 	"strconv"
 )

@@ -2,10 +2,10 @@ package web
 
 import (
 	"fmt"
+	"github.com/Edward-Jackie/gotool/pkg/database/orm"
+	"github.com/Edward-Jackie/gotool/pkg/global"
+	"github.com/Edward-Jackie/gotool/pkg/web/filters"
 	"github.com/gin-gonic/gin"
-	"github.com/ixfan/gofan/pkg/database/orm"
-	"github.com/ixfan/gofan/pkg/global"
-	"github.com/ixfan/gofan/pkg/web/filters"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
 	"os"

@@ -1,9 +1,9 @@
 package filters
 
 import (
+	"github.com/Edward-Jackie/gotool/pkg/database/orm"
+	"github.com/Edward-Jackie/gotool/pkg/global"
 	"github.com/gin-gonic/gin"
-	"github.com/ixfan/gofan/pkg/database/orm"
-	"github.com/ixfan/gofan/pkg/global"
 	"gorm.io/gorm"
 )
 

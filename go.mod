@@ -1,4 +1,4 @@
-module github.com/ixfan/gofan
+module github.com/Edward-Jackie/gotool
 
 go 1.18
 

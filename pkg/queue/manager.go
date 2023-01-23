@@ -2,7 +2,7 @@ package queue
 
 import (
 	"encoding/json"
-	"github.com/ixfan/gofan/pkg/queue/connectors"
+	"github.com/Edward-Jackie/gotool/pkg/queue/connectors"
 )
 
 type Manager struct {

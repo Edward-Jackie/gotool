@@ -1,8 +1,8 @@
 package filters
 
 import (
+	"github.com/Edward-Jackie/gotool/pkg/web/auth"
 	"github.com/gin-gonic/gin"
-	"github.com/ixfan/gofan/pkg/web/auth"
 	"net/http"
 )
 

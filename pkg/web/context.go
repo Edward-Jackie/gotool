@@ -2,14 +2,14 @@ package web
 
 import (
 	"fmt"
+	"github.com/Edward-Jackie/gotool/pkg/database/orm"
+	"github.com/Edward-Jackie/gotool/pkg/global"
+	"github.com/Edward-Jackie/gotool/pkg/web/auth"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/locales/zh"
 	ut "github.com/go-playground/universal-translator"
 	"github.com/go-playground/validator/v10"
 	zhTranslations "github.com/go-playground/validator/v10/translations/zh"
-	"github.com/ixfan/gofan/pkg/database/orm"
-	"github.com/ixfan/gofan/pkg/global"
-	"github.com/ixfan/gofan/pkg/web/auth"
 	"reflect"
 	"strings"
 )
